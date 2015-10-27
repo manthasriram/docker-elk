@@ -1,3 +1,11 @@
+
+# I have made a few enhancements based of the parent repo
+
+* Adding ENV variables for Elastic search
+* Added default config for single node cluster
+
+*Original documentation below*
+
 # Docker ELK stack
 
 [![Join the chat at https://gitter.im/deviantony/fig-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/fig-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
