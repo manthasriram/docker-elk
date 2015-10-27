@@ -1,0 +1,11 @@
+index.merge.scheduler.max_thread_count: 1
+index.refresh_interval: 60s
+
+bootstrap.mlockall: true
+
+indices.fielddata.cache.expire: 6h
+indices.cache.filter.expire: 6h
+
+#This single node or deve machine config
+index.number_of_shards: 1
+index.number_of_replicas: 0
